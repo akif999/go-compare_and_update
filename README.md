@@ -6,4 +6,4 @@ This is sample library what experimental implementation of comaring structs and 
 
 ## Author
 
-Kitabatake Akifumi a.k.a afik999
+Kitabatake Akifumi a.k.a akif999
